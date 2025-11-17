@@ -2,7 +2,7 @@
 ### Software Engineer | NLP Enthusiast | Full-Stack Developer (Django & React)
 
 Welcome to my GitHub profile!  
-I build intelligent systems, NLP applications, and modern web platforms.  
+I build intelligent systems, mobile apps, NLP applications, and modern web platforms.  
 Currently working on a **collaborative Arabic NLP platform** including resources, projects, datasets, events, and community features.
 
 ---
@@ -44,12 +44,19 @@ Fine-tuning, classification, summarization, sentiment analysis, dialect recognit
 
 ![Aimen's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsbtb18&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbtb18&layout=compact&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsbtb18&theme=tokyonight&no-frame=true&row=1&no-bg=true)
+![Aimen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsbtb18&theme=react-dark)
+![snake gif](https://github.com/itsbtb18/itsbtb18/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsbtb18&theme=tokyonight)
+![snake gif](https://github.com/itsbtb18/itsbtb18/blob/output/github-contribution-grid-snake.svg)
+![Aimen's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsbtb18&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
 
 ---
 
 ## 📫 Contact  
 **Email:** mohamedaimen.bettayeb@etu.usthb.dz  
-**LinkedIn:** *Add your link here*
+**LinkedIn:** aimen-btb
 
 
 <!--
