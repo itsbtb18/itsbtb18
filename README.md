@@ -1,4 +1,56 @@
-## Hi there 👋
+# 👋 Hi! I'm Aimen Bettayeb  
+### Software Engineer | NLP Enthusiast | Full-Stack Developer (Django & React)
+
+Welcome to my GitHub profile!  
+I build intelligent systems, NLP applications, and modern web platforms.  
+Currently working on a **collaborative Arabic NLP platform** including resources, projects, datasets, events, and community features.
+
+---
+
+## 🚀 Technologies & Tools
+
+**Languages:** Python, JavaScript, SQL, HTML/CSS  
+**Backend:** Django, Django REST Framework  
+**Frontend:** React, TailwindCSS  
+**AI & NLP:** Transformers, HuggingFace, PyTorch, spaCy, NLTK  
+**Databases:** PostgreSQL, MySQL  
+**DevOps:** Git, Docker, Nginx, GitHub Actions  
+**Cloud:** Cloudinary, Render, Railway  
+
+---
+
+## 📌 Highlight Projects
+
+### 🔥 Collaborative Arabic NLP Platform  
+Full web platform with:
+- NLP resources & datasets  
+- Research projects  
+- Forums & community  
+- Institutions directory  
+- Research events & conferences  
+- Modern UI/UX + Cloudinary integration  
+
+🔗 *Repo coming soon*
+
+---
+
+### 🤖 Arabic NLP Models & Experiments  
+Fine-tuning, classification, summarization, sentiment analysis, dialect recognition.  
+➡️ *Repos coming soon*
+
+---
+
+## 📊 GitHub Stats
+
+![Aimen's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsbtb18&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbtb18&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact  
+**Email:** mohamedaimen.bettayeb@etu.usthb.dz  
+**LinkedIn:** *Add your link here*
+
 
 <!--
 **itsbtb18/itsbtb18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
